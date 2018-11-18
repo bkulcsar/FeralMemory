@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://feralmemory.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">720914404885</string>
+  <string name="google_storage_bucket" translatable="false">feralmemory.appspot.com</string>
+  <string name="project_id" translatable="false">feralmemory</string>
+  <string name="google_api_key" translatable="false">AIzaSyBDsliMgpXFCc4DPzbR3MAwjsJV-_XHvlI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBDsliMgpXFCc4DPzbR3MAwjsJV-_XHvlI</string>
+  <string name="google_app_id" translatable="false">1:720914404885:android:65b4f78e5d7b7d16</string>
+  <string name="default_web_client_id" translatable="false">720914404885-vo5mqh7a3jf5hktao2on46u84n4l1pkg.apps.googleusercontent.com</string>
+</resources>

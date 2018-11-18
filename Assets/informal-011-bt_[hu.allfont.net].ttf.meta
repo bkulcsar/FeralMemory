@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d46bc1d2b9a4ff7409faf638377263c1
+timeCreated: 1505050277
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Informal011 BT
+  fontNames:
+  - Informal011 BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
